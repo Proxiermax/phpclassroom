@@ -14,7 +14,7 @@
   echo "<td bgcolor='#FF3333'>"; 
   echo "ลำดับ";
   echo "</td>"; 
-  echo "<td bgcolor='#FFFAFA'>"; 
+  echo "<td bgcolor='#FF552F'>"; 
   echo "จังหวัด";
   echo "</td>";
   echo "<td bgcolor='#98FB98'>"; 
@@ -43,10 +43,10 @@
   foreach($data as $key=>$val){
     echo "<tr align = 'center'>";
     echo "<tr align = 'center'>";
-    echo "<td bgcolor='#FF3333'>"; 
+    echo "<td bgcolor='#FF7575'>"; 
     echo $key+1;
     echo "</td>"; 
-    echo "<td bgcolor='#FFFAFA'>"; 
+    echo "<td bgcolor='#FF8165'>"; 
     echo $val->province;
     echo "</td>";
     echo "<td bgcolor='#98FB98'>"; 
