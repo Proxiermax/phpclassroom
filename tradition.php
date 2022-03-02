@@ -82,25 +82,25 @@
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;เมืองเชียงใหม่มีประวัติศาสตร์ที่ยาวนาน คนเชียงใหม่ได้สั่งสมวัฒนธรรมประเพณีสืบทอดมาจากบรรพบุรุษอย่างต่อเนื่อง โดยส่วนใหญ่มีความผูกพันกับพุทธศาสนาและความเชื่อดั้งเดิม ประเพณีที่สำคัญ ได้แก่<br>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• ปีใหม่เมือง (สงกรานต์) จัดขึ้นระหว่างวันที่ 13-15 เมษายนของทุกปี เป็นประเพณีที่สำคัญและยิ่งใหญ่ของชาวเชียงใหม่ แบ่งเป็นวันที่ 13 เป็นวันสังขารล่อง มีขบวนแห่พระพุทธสิหิงค์ และพิธีสรงน้ำพระ วันที่ 14 เป็นวันเน่า ชาวบ้านจะเตียมข้าวของไปวัดและรดน้ำดำหัวผู้ใหญ่วันต่อไป และวันที่ 15 เมษายน ประเพณีรดน้ำดำหัวผู้ใหญ่ และมีการเล่นสาดน้ำตลอดช่วงเทศกาล<br>
           <center>
-            <img src="songkran.jpg" width = "900px" class="img-fluid rounded"><br>
+            <img src="songkran.jpg" width = "360px" class="img-fluid rounded"><br>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• ประเพณียี่เป็ง จัดขึ้นในช่วงวันลอยกระทงของทุกปี ราวเดือนพฤศจิกายน มีการตกแต่งบ้านเรือนและสถานที่ต่างๆ ด้วยโคมชนิดต่างๆ มีการปล่อยโคมลอย มีการลอยกระทง ประกวดกระทงและนางนพมาศ<br>
           <center>
-            <img src="yebang.jpg" width = "900px" class="img-fluid rounded"><br>
+            <img src="yebang.jpg" width = "360px" class="img-fluid rounded"><br>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	ประเพณีเข้าอินทขิล จัดขึ้นในช่วงเดือนพฤษภาคมถึงมิถุนายน ที่วัดเจดีย์หลวง เป็นการบูชาเสาหลักเมืองโดยการนำดอกไม้ธูปเทียนมาใส่ขันดอก<br>
           <center>
-            <img src="intakit.jpg" width = "900px" class="img-fluid rounded"><br>
+            <img src="intakit.jpg" width = "360px" class="img-fluid rounded"><br>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	เทศกาลร่มบ่อสร้าง จัดขึ้นในเดือนมกราคมของทุกปี ที่ศูนย์หัตถกรรมทำร่มบ่อสร้าง อำเภอสันกำแพง มีการแสดงและจำหน่ายผลิตภัณฑ์พื้นบ้าน มีการแสดงทางวัฒนธรรม ขบวนแห่ ประเพณีพื้นบ้าน<br>
           <center>
-            <img src="rom.jpg" width = "900px" class="img-fluid rounded"><br>
+            <img src="rom.jpg" width = "360px" class="img-fluid rounded"><br>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	มหกรรมไม้ดอกไม้ประดับ จัดขึ้นในอาทิตย์แรกของเดือนกุมภาพันธ์ของทุกปี บริเวณสวนสาธารณะบวกหาด มีขบวนรถบุปผาชาติ และนางงามบุปผาชาติ<br>
           <center>
-            <img src="flower.jpg" width = "900px" class="img-fluid rounded"><br>
+            <img src="flower.jpg.jpg" width = "360px" class="img-fluid rounded"><br>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	งานไม้แกะสลักบ้านถวาย จัดขึ้นในเดือนมกราคม ที่หมู่บ้านถวาย อำเภอหางดง มีการจำหน่ายและสาธิตการแกะสลักไม้ และหัตถกรรมพื้นบ้าน<br>
           <center>
-            <img src="carpenter.jpg" width = "900px" class="img-fluid rounded"><br>
+            <img src="carpenter.jpg" width = "360px" class="img-fluid rounded"><br>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	ประเพณีแห่ไม้ค้ำโพธิ์ จัดขึ้นในเดือนเมษายน ในวันที่ 15 เป็นต้นไป ของทุกปี ที่บริเวณตัวเมืองจอมทอง มีขบวนรถจากชุมชน ห้างร้าน กลุ่มต่างๆ กว่า 40 ขบวน แห่ไปตามเมืองจอมทอง อำเภอจอมทอง จนถึง วัดพระธาตุศรีจอมทองวรวิหาร เป็นประเพณีที่สืบทอดกันมานานกว่า 200 ปี ตามตำนานเกิดขึ้นที่อำเภอเภอจอมทอง ถือเป็นแห่งแรกของประเทศไทยและแห่งเดียวในโลก ประเพณีแห่ไม้ค้ำโพธิ์ กลายเป็นต้นแบบของการแห่ไม้ค้ำสะหลีของชาวล้านนา จนได้รับความนิยมไปทั่วภาคเหนือ และเป็นประเพณีที่เริ่มมีชื่อเสียงโด่งดัง และได้รับความนิยมอย่างมาก<br>
           <center>
-            <img src="tree.jpg" width = "900px" class="img-fluid rounded"><br>
+            <img src="tree.jpg" width = "360px" class="img-fluid rounded"><br>
         </div>
       </div>
        <div class="row">
