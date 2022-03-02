@@ -94,7 +94,7 @@
             <img src="rom.jpg" width = "360px" class="img-fluid rounded"><br>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	มหกรรมไม้ดอกไม้ประดับ จัดขึ้นในอาทิตย์แรกของเดือนกุมภาพันธ์ของทุกปี บริเวณสวนสาธารณะบวกหาด มีขบวนรถบุปผาชาติ และนางงามบุปผาชาติ<br>
           <center>
-            <img src="flower.jpg.jpg" width = "360px" class="img-fluid rounded"><br>
+            <img src="dokmai.jpg" width = "360px" class="img-fluid rounded"><br>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	งานไม้แกะสลักบ้านถวาย จัดขึ้นในเดือนมกราคม ที่หมู่บ้านถวาย อำเภอหางดง มีการจำหน่ายและสาธิตการแกะสลักไม้ และหัตถกรรมพื้นบ้าน<br>
           <center>
             <img src="carpenter.jpg" width = "360px" class="img-fluid rounded"><br>
