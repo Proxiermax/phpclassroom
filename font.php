@@ -4,7 +4,7 @@
     <style>
       @font-face{
         font-family: myFont;
-        src: url(duck.woff);
+        src: url(cho.tff);
       }
       @font-face{
         font-family: myFont2;
