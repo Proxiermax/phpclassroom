@@ -8,7 +8,7 @@
       }
       @font-face{
         font-family: myFont2;
-        src: url(Galaxy.woff);
+        src: url(IGM.woff);
       }
       #font1{
         font-family: myFont;
