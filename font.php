@@ -4,7 +4,7 @@
     <style>
       @font-face{
         font-family: myFont;
-        src: url(cho.tff);
+        src: url(cho.woff);
       }
       @font-face{
         font-family: myFont2;
